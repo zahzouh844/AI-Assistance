@@ -1,0 +1,4 @@
+Lors de la réunion du 10 avril, nous avons discuté de l’avancement des tickets GLPI. L’équipe a exprimé le besoin d’une automatisation des rapports mensuels. Des anomalies ont été identifiées sur l’outil de suivi. Des actions correctives sont à prévoir.
+
+
+--- Résumé IA à améliorer ---

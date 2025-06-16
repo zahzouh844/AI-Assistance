@@ -1,0 +1,17 @@
+Bonjour à tous et merci d’être présents aujourd’hui. Nous allons commencer par faire un point sur l’avancement du projet. Julie, peux-tu nous faire un retour sur le développement de l’application mobile ?
+
+Julie : Bien sûr. Nous avons terminé la phase de test de l’interface utilisateur. Les retours sont globalement positifs, mais nous avons identifié quelques bugs sur la version Android qu’il faudra corriger cette semaine.
+
+Marc : Très bien. Concernant le marketing, nous avons finalisé la campagne de lancement prévue pour le mois prochain. Il ne reste plus qu’à valider le contenu des newsletters.
+
+Julie : Il faudra aussi penser à former le support client sur les nouvelles fonctionnalités. La documentation est presque prête, je l’enverrai demain.
+
+Paul : Bonne idée. Est-ce qu’on peut programmer une session de formation la semaine prochaine ?
+
+Marc : Oui, je propose jeudi matin. Est-ce que tout le monde est disponible ?
+
+(accord général)
+
+Julie : Dernier point : le design des écrans de paiement. On a reçu une nouvelle maquette du designer, je vous l’envoie à la fin de la réunion pour retour.
+
+Paul : Parfait. Merci à tous, on se retrouve jeudi prochain pour la formation.
